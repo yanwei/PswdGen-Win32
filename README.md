@@ -1,2 +1,2 @@
 # PswdGen-Win32
-password generator for windows
+random password generator for windows
